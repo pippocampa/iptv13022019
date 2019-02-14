@@ -1,0 +1,525 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="###### -- |IT| ITALY |IT| -- ######" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ_qFzlrUaO9P1_4lOUZHPOLuyeCpM2VWZvU503O5Y5Lu4w12OpRTANH5n" group-title="ITALY",###### -- |IT| ITALY |IT| -- ######
+http://xpro.one-iptv.com:25443/henock/henock123/22496
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| ALICE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn8mjdhY7xiUwxotGEpAppS4vN5vkOvbYpQkzEgVSATA5EsTP3M3385jAk" group-title="ITALY",|IT*| ALICE
+http://xpro.one-iptv.com:25443/henock/henock123/30400
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Animal_Planet" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyE6mjr7-TH5lz3ommrKQxysJBDgg-ZbyoGGuGgopll0iklAfBEwVaCHWh" group-title="ITALY",|IT*| Animal_Planet
+http://xpro.one-iptv.com:25443/henock/henock123/30414
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Auto_Moto_TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTbtMQyo0hSiSkZA9Ydvozypg_AmQ04bTUukdAITaJ3T2gFCwVk6YhrDw" group-title="ITALY",|IT*| Auto_Moto_TV
+http://xpro.one-iptv.com:25443/henock/henock123/30385
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Bike_Channel_HD" tvg-logo="http://one-iptv.com/logoX/italy/bikechannel%20.png" group-title="ITALY",|IT*| Bike_Channel_HD
+http://xpro.one-iptv.com:25443/henock/henock123/30396
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| BOING" tvg-logo="http://one-iptv.com/logoX/news/boig.png" group-title="ITALY",|IT*| BOING
+http://xpro.one-iptv.com:25443/henock/henock123/30401
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Caccia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9ckS25qUUvJWK0aICmCsNV2wXniQ8tUlMtJOg17hdzHplNOUJTgNGbQg" group-title="ITALY",|IT*| Caccia
+http://xpro.one-iptv.com:25443/henock/henock123/30394
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| CANALE_5_HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcIBuk5Zmwsey5ughFYZItWJuRdn9EU_kqbLAYTFEm9QCOtykZF4YF94A" group-title="ITALY",|IT*| CANALE_5_HD
+http://xpro.one-iptv.com:25443/henock/henock123/30412
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Cartoonito" tvg-logo="http://one-iptv.com/logoX/italy/cartoonito.png" group-title="ITALY",|IT*| Cartoonito
+http://xpro.one-iptv.com:25443/henock/henock123/30416
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Cielo_HD" tvg-logo="http://one-iptv.com/logoX/italy/cielo.png" group-title="ITALY",|IT*| Cielo_HD
+http://xpro.one-iptv.com:25443/henock/henock123/30395
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Comedy_Central" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl0qU3-zMrK3RLo7KS10yfQ11KTzE3uYf5DfLv86hItgVqv9BDs2aBcr8" group-title="ITALY",|IT*| Comedy_Central
+http://xpro.one-iptv.com:25443/henock/henock123/30383
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Discovery_Channal_HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVmj-0GdCMoP01h4FBXJAN3jBmxC50BjYRuZap1BoKv2vcyAE0ysUUYTw" group-title="ITALY",|IT*| Discovery_Channal_HD
+http://xpro.one-iptv.com:25443/henock/henock123/30423
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| DISCOVERY_SCIENCE_HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRM83YsMjLHGOnFJUdthfPq78KamVXXAeUWaBPhP9T1pWFqMbv57sjtDUo" group-title="ITALY",|IT*| DISCOVERY_SCIENCE_HD
+http://xpro.one-iptv.com:25443/henock/henock123/30424
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Discovery_Travel_Living_HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ8Qo9osA4za-EEfmw8PIYIJ4MHxnCudFbHLpwif024uISDU7G9M50QHw" group-title="ITALY",|IT*| Discovery_Travel_Living_HD
+http://xpro.one-iptv.com:25443/henock/henock123/30425
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| FOX_Animation HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXV7exnBoyb-TOSShmFc2AdC3TRI2ONsvlXRd_7msGeEFmFD6N85CO7PTE" group-title="ITALY",|IT*| FOX_Animation HD
+http://xpro.one-iptv.com:25443/henock/henock123/30382
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Fox_sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPdirG3PyY9xu21mgXZmdCYnKvrwWbbxlqcnGtm2M47YgPDg6tIBS9OFab" group-title="ITALY",|IT*| Fox_sport
+http://xpro.one-iptv.com:25443/henock/henock123/30381
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Gambero_Rosso_HD" tvg-logo="http://one-iptv.com/logoX/italy/gamberorosso.png" group-title="ITALY",|IT*| Gambero_Rosso_HD
+http://xpro.one-iptv.com:25443/henock/henock123/30380
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| History" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWBhYmQ2FVll6EUQIpp_W9OdZ_fpORvFwJD6sDA9y3f1iFhe0SLmOlnYdK" group-title="ITALY",|IT*| History
+http://xpro.one-iptv.com:25443/henock/henock123/30421
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Inter_Channel" tvg-logo="http://one-iptv.com/logoX/italy/interchannel.png" group-title="ITALY",|IT*| Inter_Channel
+http://xpro.one-iptv.com:25443/henock/henock123/30379
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Iris" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEm8Tihl2dayJ7nd3P3nVX9VahKMQVk0RhLxkSGiaVzGYJJ7JG2PFuuER1" group-title="ITALY",|IT*| Iris
+http://xpro.one-iptv.com:25443/henock/henock123/30402
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Juventus_Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfS33GGjuMbDR0keRAu-TLHdyyTpvnD2EOVWMOxXtf7IH00-GsO5vJWDuB" group-title="ITALY",|IT*| Juventus_Channel
+http://xpro.one-iptv.com:25443/henock/henock123/30378
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| K2" tvg-logo="http://one-iptv.com/logoX/italy/k2.png" group-title="ITALY",|IT*| K2
+http://xpro.one-iptv.com:25443/henock/henock123/30415
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Lazio_Channel" tvg-logo="http://one-iptv.com/logoX/italy/laziochannel.png" group-title="ITALY",|IT*| Lazio_Channel
+http://xpro.one-iptv.com:25443/henock/henock123/30377
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Man-Ga" tvg-logo="http://one-iptv.com/logoX/italy/man-ga.png" group-title="ITALY",|IT*| Man-Ga
+http://xpro.one-iptv.com:25443/henock/henock123/30419
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Marcopolo" tvg-logo="http://one-iptv.com/logoX/italy/marcoppolo.png" group-title="ITALY",|IT*| Marcopolo
+http://xpro.one-iptv.com:25443/henock/henock123/30397
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Mediaset_Extra" tvg-logo="http://one-iptv.com/logoX/italy/mediasetextra.png" group-title="ITALY",|IT*| Mediaset_Extra
+http://xpro.one-iptv.com:25443/henock/henock123/30404
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Mediaset_la_1" tvg-logo="http://one-iptv.com/logoX/italy/mediaset1.png" group-title="ITALY",|IT*| Mediaset_la_1
+http://xpro.one-iptv.com:25443/henock/henock123/30408
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| MEDIASET_la_2" tvg-logo="http://one-iptv.com/logoX/italy/mediaset2.png" group-title="ITALY",|IT*| MEDIASET_la_2
+http://xpro.one-iptv.com:25443/henock/henock123/30407
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Mediaset_La_5" tvg-logo="http://one-iptv.com/logoX/italy/mediaset5.png" group-title="ITALY",|IT*| Mediaset_La_5
+http://xpro.one-iptv.com:25443/henock/henock123/30406
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Mediaset_La_7" tvg-logo="http://one-iptv.com/logoX/italy/mediaset7.png" group-title="ITALY",|IT*| Mediaset_La_7
+http://xpro.one-iptv.com:25443/henock/henock123/30405
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Mediaset_Top_Crime" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3lxvxg_aB4jLPQkVKq5fAHRVo9vIJbRf8WoapRpBEkVmbIiIyYRmLnDg" group-title="ITALY",|IT*| Mediaset_Top_Crime
+http://xpro.one-iptv.com:25443/henock/henock123/30403
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Milan_Channel" tvg-logo="http://one-iptv.com/logoX/italy/milanchannel.png" group-title="ITALY",|IT*| Milan_Channel
+http://xpro.one-iptv.com:25443/henock/henock123/30376
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| NatGeo_People_HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQapdu4ry6zXSm2t294P73vIFUpXFFrGPtQn4Q8zOY9moSOcGOHQ6AzV6s" group-title="ITALY",|IT*| NatGeo_People_HD
+http://xpro.one-iptv.com:25443/henock/henock123/30409
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| National_Geo_HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU6heMqAYd_uNF_BVZlRyHz-Bnw1HFOGY-MdknBO4eppcZuzue8QN8009b" group-title="ITALY",|IT*| National_Geo_HD
+http://xpro.one-iptv.com:25443/henock/henock123/30413
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| National_Geo_Wild_HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaKUwrzX0zn6j_pQAvYvinHrjkFFu33suLlDXw-kItteIOM1i9JMDqpw" group-title="ITALY",|IT*| National_Geo_Wild_HD
+http://xpro.one-iptv.com:25443/henock/henock123/30426
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Nick" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-X9vCjJasqq_SE_cQapa69n5j7fz9MR7fvjuamNpAyxfVbHYAZ5V3NdJq" group-title="ITALY",|IT*| Nick
+http://xpro.one-iptv.com:25443/henock/henock123/30420
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Premium_Action_ 24_HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvoSaEwXTXm2l1rL_FbNW8ly_MUwqrsRA9miMRJ4DUISVRUUVgZzi_3Q" group-title="ITALY",|IT*| Premium_Action_ 24_HD
+http://xpro.one-iptv.com:25443/henock/henock123/30436
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Premium_Action_HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTll-FINKiyoPrk4KcaVbbc8F8-1dmM5DOYWc-pQ3aC_3pS2E71d_vWDmA" group-title="ITALY",|IT*| Premium_Action_HD
+http://xpro.one-iptv.com:25443/henock/henock123/30437
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| PREMIUM_Calcio_01_HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjygUP1RSo_HYBw3ZBOxFQbgq6XpMr1PIMrvJ8NvmSNI3ERTFEFlIi7w" group-title="ITALY",|IT*| PREMIUM_Calcio_01_HD
+http://xpro.one-iptv.com:25443/henock/henock123/30392
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| PREMIUM_Calcio_02_HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjygUP1RSo_HYBw3ZBOxFQbgq6XpMr1PIMrvJ8NvmSNI3ERTFEFlIi7w" group-title="ITALY",|IT*| PREMIUM_Calcio_02_HD
+http://xpro.one-iptv.com:25443/henock/henock123/30391
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| PREMIUM_Calcio_03_HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjygUP1RSo_HYBw3ZBOxFQbgq6XpMr1PIMrvJ8NvmSNI3ERTFEFlIi7w" group-title="ITALY",|IT*| PREMIUM_Calcio_03_HD
+http://xpro.one-iptv.com:25443/henock/henock123/30390
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| PREMIUM_Calcio_04_HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjygUP1RSo_HYBw3ZBOxFQbgq6XpMr1PIMrvJ8NvmSNI3ERTFEFlIi7w" group-title="ITALY",|IT*| PREMIUM_Calcio_04_HD
+http://xpro.one-iptv.com:25443/henock/henock123/30389
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| PREMIUM_Calcio_05_HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjygUP1RSo_HYBw3ZBOxFQbgq6XpMr1PIMrvJ8NvmSNI3ERTFEFlIi7w" group-title="ITALY",|IT*| PREMIUM_Calcio_05_HD
+http://xpro.one-iptv.com:25443/henock/henock123/30388
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| PREMIUM_Calcio_06_HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjygUP1RSo_HYBw3ZBOxFQbgq6XpMr1PIMrvJ8NvmSNI3ERTFEFlIi7w" group-title="ITALY",|IT*| PREMIUM_Calcio_06_HD
+http://xpro.one-iptv.com:25443/henock/henock123/30387
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Premium_Cinema_ 24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmD4yWuJZdQdsjAl3Xf2c_B4G8giWI5DQVlD_cZSSzttdalhGEy7OiB0c" group-title="ITALY",|IT*| Premium_Cinema_ 24
+http://xpro.one-iptv.com:25443/henock/henock123/30440
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Premium_Cinema_2_ 24_HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmD4yWuJZdQdsjAl3Xf2c_B4G8giWI5DQVlD_cZSSzttdalhGEy7OiB0c" group-title="ITALY",|IT*| Premium_Cinema_2_ 24_HD
+http://xpro.one-iptv.com:25443/henock/henock123/30438
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Premium_Cinema_2_HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxC-gW3GUA7JoHAWGJNurd9LC-YSmdQYUoVW_O2jr4F5FCeKYnVD1DdQgS" group-title="ITALY",|IT*| Premium_Cinema_2_HD
+http://xpro.one-iptv.com:25443/henock/henock123/30439
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Premium_Cinema_HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_acGnFYLidCNW5fkeydu4t8A40CX75BMmu2OWlRRKHVLqPBCHBG-RAis" group-title="ITALY",|IT*| Premium_Cinema_HD
+http://xpro.one-iptv.com:25443/henock/henock123/30441
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Premium_Comedy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZlAyzkMIvfJt9bH5CgE1jIdmDAtr8STRvZgZ8uytqsQAUEEoNiN3o6ENf" group-title="ITALY",|IT*| Premium_Comedy
+http://xpro.one-iptv.com:25443/henock/henock123/30428
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Premium_Crime_ 24_HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvoSaEwXTXm2l1rL_FbNW8ly_MUwqrsRA9miMRJ4DUISVRUUVgZzi_3Q" group-title="ITALY",|IT*| Premium_Crime_ 24_HD
+http://xpro.one-iptv.com:25443/henock/henock123/30434
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Premium_Crime_HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMnKF7WzyGm6zAHEWuVJxmNvYICr1dMtX7nsyPcXcxGlND0aLeIj1zSw" group-title="ITALY",|IT*| Premium_Crime_HD
+http://xpro.one-iptv.com:25443/henock/henock123/30435
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Premium_Emotion" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmBux-43s_EGgpwxVuuJKSm091EYkqDkS8o9rnZcSL7sCoYNeBIlPtYDo" group-title="ITALY",|IT*| Premium_Emotion
+http://xpro.one-iptv.com:25443/henock/henock123/30429
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Premium_Energy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjw-jVEUJD8W1lEE_ECqw6S28fYo7J81HbBJ7I4tJdifADnMK4C0HbAw" group-title="ITALY",|IT*| Premium_Energy
+http://xpro.one-iptv.com:25443/henock/henock123/30430
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Premium_Joi_ 24_HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTljrvl_ONl2fk1-yJoSTOYzcPi_GqWHFKvuKFPTSlwewJmEtDDEHD76U0" group-title="ITALY",|IT*| Premium_Joi_ 24_HD
+http://xpro.one-iptv.com:25443/henock/henock123/30432
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Premium_Joi_HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-94zCZdf4b6XZ3AdTSz0dlznhtIcOroFOgKXkvfLCUyqq3RFz3sv6aA" group-title="ITALY",|IT*| Premium_Joi_HD
+http://xpro.one-iptv.com:25443/henock/henock123/30433
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Premium_Sport_2_HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRthrRqpN_bov8hMnQXX-xLq8nibOo04nkvVfnpgL8kP8Z-Z9ZuH9IKcX80" group-title="ITALY",|IT*| Premium_Sport_2_HD
+http://xpro.one-iptv.com:25443/henock/henock123/30373
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Premium_Sport_HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr3EoEcasP0Q9ZSMnri--g-qQAkx3uZt6jZzrO4zac3-hiJd3CN7qcp78" group-title="ITALY",|IT*| Premium_Sport_HD
+http://xpro.one-iptv.com:25443/henock/henock123/30372
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Premium_Stories_HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjygUP1RSo_HYBw3ZBOxFQbgq6XpMr1PIMrvJ8NvmSNI3ERTFEFlIi7w" group-title="ITALY",|IT*| Premium_Stories_HD
+http://xpro.one-iptv.com:25443/henock/henock123/30431
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Premium_Studio_Universal" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ8Qo9osA4za-EEfmw8PIYIJ4MHxnCudFbHLpwif024uISDU7G9M50QHw" group-title="ITALY",|IT*| Premium_Studio_Universal
+http://xpro.one-iptv.com:25443/henock/henock123/30427
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| PRIMAFILA 1 HD" tvg-logo="http://one-iptv.com/logoX/italy/primafila1.png" group-title="ITALY",|IT*| PRIMAFILA 1 HD
+http://xpro.one-iptv.com:25443/henock/henock123/30371
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| PRIMAFILA 10 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9s6JnjQX32tJRcAY5n4myhz8mVGk2W4TSNYWsCx1cyEudUrxMRYiIYObI" group-title="ITALY",|IT*| PRIMAFILA 10 HD
+http://xpro.one-iptv.com:25443/henock/henock123/30362
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| PRIMAFILA 11 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwcB_xPWpo3GW60RBRE00BrmDYQRWLFb2cp8xetGZXcfL8jmyDDsIh87Kk" group-title="ITALY",|IT*| PRIMAFILA 11 HD
+http://xpro.one-iptv.com:25443/henock/henock123/30361
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| PRIMAFILA 12 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBQlcjZvZHHBlA2YHcYrQV7EYTIAbvDMTPpRCOQLDsnMRvJ3-8D2lO-Mbw" group-title="ITALY",|IT*| PRIMAFILA 12 HD
+http://xpro.one-iptv.com:25443/henock/henock123/30360
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| PRIMAFILA 13 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD20JW-5yTMw1BdbfTUdWN44RMhUvMh-ETx5F6CmRjgUXaOOEdCKjo514Q" group-title="ITALY",|IT*| PRIMAFILA 13 HD
+http://xpro.one-iptv.com:25443/henock/henock123/30359
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| PRIMAFILA 14" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAOvLo4T79LyVVELKml8EBDhm2NgJJslndPx63oqnE0l4XEnpXYpe8vYU" group-title="ITALY",|IT*| PRIMAFILA 14
+http://xpro.one-iptv.com:25443/henock/henock123/30358
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| PRIMAFILA 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9s6JnjQX32tJRcAY5n4myhz8mVGk2W4TSNYWsCx1cyEudUrxMRYiIYObI" group-title="ITALY",|IT*| PRIMAFILA 2 HD
+http://xpro.one-iptv.com:25443/henock/henock123/30370
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| PRIMAFILA 3 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyu-exyD89SzorGxM0fi0Z4QWtHR6l6Nb6SrffE-NimMp8DbTGdjkkR1c" group-title="ITALY",|IT*| PRIMAFILA 3 HD
+http://xpro.one-iptv.com:25443/henock/henock123/30369
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| PRIMAFILA 4 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyu-exyD89SzorGxM0fi0Z4QWtHR6l6Nb6SrffE-NimMp8DbTGdjkkR1c" group-title="ITALY",|IT*| PRIMAFILA 4 HD
+http://xpro.one-iptv.com:25443/henock/henock123/30368
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| PRIMAFILA 5 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwcB_xPWpo3GW60RBRE00BrmDYQRWLFb2cp8xetGZXcfL8jmyDDsIh87Kk" group-title="ITALY",|IT*| PRIMAFILA 5 HD
+http://xpro.one-iptv.com:25443/henock/henock123/30367
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| PRIMAFILA 6 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0ggrsxl2GRtEdWM3EBu4veVtrOoKC70f2bEBG_XGZ0OZAXvHArgStF4s" group-title="ITALY",|IT*| PRIMAFILA 6 HD
+http://xpro.one-iptv.com:25443/henock/henock123/30366
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| PRIMAFILA 7 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyHQi2GnSp-iqbtdZredg-EiVFCVkAPny_XMuazzopQWe7uOSgJqDD3r8" group-title="ITALY",|IT*| PRIMAFILA 7 HD
+http://xpro.one-iptv.com:25443/henock/henock123/30365
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| PRIMAFILA 8 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyu-exyD89SzorGxM0fi0Z4QWtHR6l6Nb6SrffE-NimMp8DbTGdjkkR1c" group-title="ITALY",|IT*| PRIMAFILA 8 HD
+http://xpro.one-iptv.com:25443/henock/henock123/30364
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| PRIMAFILA 9 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwcB_xPWpo3GW60RBRE00BrmDYQRWLFb2cp8xetGZXcfL8jmyDDsIh87Kk" group-title="ITALY",|IT*| PRIMAFILA 9 HD
+http://xpro.one-iptv.com:25443/henock/henock123/30363
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| RAI_1_HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg2rTRg9eAWdTYOIEOICCeQ-MHn4QPYzGsaBj2R6ophEa43yUSG9o3YmM" group-title="ITALY",|IT*| RAI_1_HD
+http://xpro.one-iptv.com:25443/henock/henock123/30453
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| RAI_2_HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPP8LN-At08say5jba6N956iqCffniq4E1hfSrMnSlr1sf4BNAAkRjRTE" group-title="ITALY",|IT*| RAI_2_HD
+http://xpro.one-iptv.com:25443/henock/henock123/30452
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| RAI_3_HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0lSNK1f8G9LRTMU1Vrr60YeRbWcvO9vERoknRCwz7G6D7ll97xJhY7xw" group-title="ITALY",|IT*| RAI_3_HD
+http://xpro.one-iptv.com:25443/henock/henock123/30451
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| RAI_4_HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkwYkX0xGX7kgqJDGmIs-WT8FYX-dit2yDHRk5KuPWQkmGfYt193GkuJA" group-title="ITALY",|IT*| RAI_4_HD
+http://xpro.one-iptv.com:25443/henock/henock123/30450
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| RAI_5_HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhZlduBgnIB_L0Z52iBBFx70LDbNMeyPFUm7C6DyBQw2-epw047x8NK2c" group-title="ITALY",|IT*| RAI_5_HD
+http://xpro.one-iptv.com:25443/henock/henock123/30449
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Rai_Gulp" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHG8re_AOrnJBNIo6oYm2DWlQmWObaRrBudvUzNsrt2cEdhO2lUr4lYRUn" group-title="ITALY",|IT*| Rai_Gulp
+http://xpro.one-iptv.com:25443/henock/henock123/30445
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| RAI_Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvWuU5renS1fhs4xJ6rWf_tpIgXlE1FB3g-xR83DEqI1FnDYcFEJIYGnSv" group-title="ITALY",|IT*| RAI_Movie
+http://xpro.one-iptv.com:25443/henock/henock123/30447
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| RAI_Premium" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWXwil0Lxh_dbMJsXLh_6rIDqW8MyUqYWQOzCmYsPnmGMScDjsfmWrtt53" group-title="ITALY",|IT*| RAI_Premium
+http://xpro.one-iptv.com:25443/henock/henock123/30448
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| RAI_SCUOLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzLDtbqs_mn9TZbV9ErHPEwGgerHBI2QX-lrOXp1sLTkd0Sgli3V4WwtA" group-title="ITALY",|IT*| RAI_SCUOLA
+http://xpro.one-iptv.com:25443/henock/henock123/30442
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Rai_Sport_" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-yF0c0PqhCZH6ybQ1iVhYu8CCbCKR42Wuvncx5stlWx4EKZY9PG0N9ot-" group-title="ITALY",|IT*| Rai_Sport_
+http://xpro.one-iptv.com:25443/henock/henock123/30443
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Rai_Storia_HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs9rJZCAgClJy_wapRpsATZByhfZvemZkT850CeSmQe1RDQ2JdkyPI_IH4" group-title="ITALY",|IT*| Rai_Storia_HD
+http://xpro.one-iptv.com:25443/henock/henock123/30444
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Rai_yoyo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA0zJBJCJpi1cBYkt_rGdq7eq_wlw68z8dPggwnLRiB8hu9L51iBasJD6U" group-title="ITALY",|IT*| Rai_yoyo
+http://xpro.one-iptv.com:25443/henock/henock123/30446
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Real_Time" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBj1agGPx2KAOk1AxBIXhKGJmH4Cc3o6WiefJhC-FS-iz0W9Zq3sHmoFkC" group-title="ITALY",|IT*| Real_Time
+http://xpro.one-iptv.com:25443/henock/henock123/30417
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| RETE_4_HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW-6S3wKi3dxNiGAEkFRASgvfNly5DpGqhloUCIWw2feHRfbGELm_rGtA" group-title="ITALY",|IT*| RETE_4_HD
+http://xpro.one-iptv.com:25443/henock/henock123/30418
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Roma_Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGX2RJslR-8xOFwt5CnjnpVrQJi1k5jmLRg1GR9AFzZ6cFyE52tQj9Gdjr" group-title="ITALY",|IT*| Roma_Channel
+http://xpro.one-iptv.com:25443/henock/henock123/30375
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| RSI_La1_HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSM1xLTyiO2w8JT99cAUIJL9t08L8oxbx4TujuypN52qslmnIfDzw3AQ" group-title="ITALY",|IT*| RSI_La1_HD
+http://xpro.one-iptv.com:25443/henock/henock123/30410
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| RSI_La2_HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSM1xLTyiO2w8JT99cAUIJL9t08L8oxbx4TujuypN52qslmnIfDzw3AQ" group-title="ITALY",|IT*| RSI_La2_HD
+http://xpro.one-iptv.com:25443/henock/henock123/30411
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Sky_Arte_HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa3u9oRRBJl6XflgRDENX3stCIU_l_lp5-_EcFk71h1XT3z9RL3ds_97jC" group-title="ITALY",|IT*| Sky_Arte_HD
+http://xpro.one-iptv.com:25443/henock/henock123/30327
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Sky_Atlantic_HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyFJ_ym5sXpuM9O2gsUgDkbikI2K1mIbQlKNKgbkyN6AjTY0eMZPjpKEA4" group-title="ITALY",|IT*| Sky_Atlantic_HD
+http://xpro.one-iptv.com:25443/henock/henock123/30326
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Sky_Calcio_01_HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjygUP1RSo_HYBw3ZBOxFQbgq6XpMr1PIMrvJ8NvmSNI3ERTFEFlIi7w" group-title="ITALY",|IT*| Sky_Calcio_01_HD
+http://xpro.one-iptv.com:25443/henock/henock123/30335
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Sky_Calcio_02_HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjygUP1RSo_HYBw3ZBOxFQbgq6XpMr1PIMrvJ8NvmSNI3ERTFEFlIi7w" group-title="ITALY",|IT*| Sky_Calcio_02_HD
+http://xpro.one-iptv.com:25443/henock/henock123/30334
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Sky_Calcio_03_HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjygUP1RSo_HYBw3ZBOxFQbgq6XpMr1PIMrvJ8NvmSNI3ERTFEFlIi7w" group-title="ITALY",|IT*| Sky_Calcio_03_HD
+http://xpro.one-iptv.com:25443/henock/henock123/30333
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Sky_Calcio_04_HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjygUP1RSo_HYBw3ZBOxFQbgq6XpMr1PIMrvJ8NvmSNI3ERTFEFlIi7w" group-title="ITALY",|IT*| Sky_Calcio_04_HD
+http://xpro.one-iptv.com:25443/henock/henock123/30332
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Sky_Calcio_05_HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjygUP1RSo_HYBw3ZBOxFQbgq6XpMr1PIMrvJ8NvmSNI3ERTFEFlIi7w" group-title="ITALY",|IT*| Sky_Calcio_05_HD
+http://xpro.one-iptv.com:25443/henock/henock123/30331
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Sky_Calcio_6_HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI6x4kNFDk14COaThLNWYjJ7AXBUqi1B-oSZGl5C5HPMsWnT3SZLBzKA" group-title="ITALY",|IT*| Sky_Calcio_6_HD
+http://xpro.one-iptv.com:25443/henock/henock123/30330
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Sky_Cinema_ 24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFy5s18y8IhxjhsIbiQX6IkjXvXvR6-Ssn-TExR5tCyTZZcBQZiWYlL94" group-title="ITALY",|IT*| Sky_Cinema_ 24
+http://xpro.one-iptv.com:25443/henock/henock123/30356
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Sky_Cinema_1_HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTefl-vBJrstmFq4q9kvkOacTfH1gT0__Xy5IktelC-AaC-ye-PRxgH5IA" group-title="ITALY",|IT*| Sky_Cinema_1_HD
+http://xpro.one-iptv.com:25443/henock/henock123/30357
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Sky_Cinema_Classics_HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6vd2b7D8AiraVExNuJeaqEcX8bNoEYQgvAWEVsjmf6rYy1tq-P4E10U3S" group-title="ITALY",|IT*| Sky_Cinema_Classics_HD
+http://xpro.one-iptv.com:25443/henock/henock123/30355
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Sky_Cinema_Comedy_HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3r__VhYSyUfa6u8x_DpqCCKn-VEhvVb7PGwkmBc1G_7kTWv848x7tp2w" group-title="ITALY",|IT*| Sky_Cinema_Comedy_HD
+http://xpro.one-iptv.com:25443/henock/henock123/30354
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Sky_Cinema_Cult_HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4zNN8MyrJGbg6kk-RhA7S_Vu7K__VktIPU2bTyDVaf4hAU1Wu5GDfQcg" group-title="ITALY",|IT*| Sky_Cinema_Cult_HD
+http://xpro.one-iptv.com:25443/henock/henock123/30353
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Sky_Cinema_Family_HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPqhHMH-W5KcfJhs5yi5lpboxmGVFRBFCEiBvCkm1MbOHAF2Ai_AeNTRI" group-title="ITALY",|IT*| Sky_Cinema_Family_HD
+http://xpro.one-iptv.com:25443/henock/henock123/30352
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| SKY_CINEMA_H|IT*| HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSywZtLNB70iVF-mi9r6i0jOJkj4wGjYIX5ybwSwYDa77WFaVIUpD2iumoW" group-title="ITALY",|IT*| SKY_CINEMA_H|IT*| HD
+http://xpro.one-iptv.com:25443/henock/henock123/30351
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Sky_Cinema_Max_HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb_mAlS0PMcRh5a8Ai-jHRdCNCpGKJcP2Wga3CBuo2xoLXgS6VZbnA-CA" group-title="ITALY",|IT*| Sky_Cinema_Max_HD
+http://xpro.one-iptv.com:25443/henock/henock123/30350
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Sky_Cinema_Passion_HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTntbAQUAWF6DLRqsZ-I2K8IAqGsSt9mpPvN0615g8ovrLF6uqVMGODPs0" group-title="ITALY",|IT*| Sky_Cinema_Passion_HD
+http://xpro.one-iptv.com:25443/henock/henock123/30349
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Sky_Disney_Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSojSsYTSYCJ0VcuaQ01GgQG5-P1pGwilXstDgbEzBOTq2jXvGJBbi4ypI" group-title="ITALY",|IT*| Sky_Disney_Channel
+http://xpro.one-iptv.com:25443/henock/henock123/30329
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Sky_Disney_Junior" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1kvyVJW3_YA5Xv8nEsysG-j7FAQnPzOm_pg661sEWusV7-so9c9qeCAA" group-title="ITALY",|IT*| Sky_Disney_Junior
+http://xpro.one-iptv.com:25443/henock/henock123/30328
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Sky_Disney_XD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1kvyVJW3_YA5Xv8nEsysG-j7FAQnPzOm_pg661sEWusV7-so9c9qeCAA" group-title="ITALY",|IT*| Sky_Disney_XD
+http://xpro.one-iptv.com:25443/henock/henock123/30422
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Sky_fox_Comedy_HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1kvyVJW3_YA5Xv8nEsysG-j7FAQnPzOm_pg661sEWusV7-so9c9qeCAA" group-title="ITALY",|IT*| Sky_fox_Comedy_HD
+http://xpro.one-iptv.com:25443/henock/henock123/30348
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Sky_Fox_Crime" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1kvyVJW3_YA5Xv8nEsysG-j7FAQnPzOm_pg661sEWusV7-so9c9qeCAA" group-title="ITALY",|IT*| Sky_Fox_Crime
+http://xpro.one-iptv.com:25443/henock/henock123/30347
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Sky_Fox_HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDXj2_nTZnbmbkFd8ysEh-lW6pKRmpJkJtRbDPTPPlQlCdtgE1LD09GgeP" group-title="ITALY",|IT*| Sky_Fox_HD
+http://xpro.one-iptv.com:25443/henock/henock123/30346
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Sky_Fox_Life_HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1kvyVJW3_YA5Xv8nEsysG-j7FAQnPzOm_pg661sEWusV7-so9c9qeCAA" group-title="ITALY",|IT*| Sky_Fox_Life_HD
+http://xpro.one-iptv.com:25443/henock/henock123/30345
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Sky_Fox_Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMDf4rcSelenQSxwszRBTaruFFa0_iYG2CweMcj5okTzEcY4PvpU-Gm55-" group-title="ITALY",|IT*| Sky_Fox_Sports
+http://xpro.one-iptv.com:25443/henock/henock123/30344
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Sky_Sport_01_HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQldZ7wh4TUYb1goF-asTl6av_n1YuxTxIOti4yqnwo-gqeYjYc5ByDwss" group-title="ITALY",|IT*| Sky_Sport_01_HD
+http://xpro.one-iptv.com:25443/henock/henock123/30343
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Sky_Sport_02_HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQldZ7wh4TUYb1goF-asTl6av_n1YuxTxIOti4yqnwo-gqeYjYc5ByDwss" group-title="ITALY",|IT*| Sky_Sport_02_HD
+http://xpro.one-iptv.com:25443/henock/henock123/30342
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Sky_Sport_03_HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM2Zb5Q9cmqW8J3pnNh35zxQGpIy1G_ppuYBkQpnmJXsEFoRTDyd4dXu5X" group-title="ITALY",|IT*| Sky_Sport_03_HD
+http://xpro.one-iptv.com:25443/henock/henock123/30341
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Sky_Sport_24_HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfS33GGjuMbDR0keRAu-TLHdyyTpvnD2EOVWMOxXtf7IH00-GsO5vJWDuB" group-title="ITALY",|IT*| Sky_Sport_24_HD
+http://xpro.one-iptv.com:25443/henock/henock123/30340
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Sky_Sport_F1_HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy9EKB-1w7GHAM-l2Znem5O5JD0O-JmNdpGi0oobrLL5lsFEU7QjBlIZU" group-title="ITALY",|IT*| Sky_Sport_F1_HD
+http://xpro.one-iptv.com:25443/henock/henock123/30339
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Sky_Sport_MotoGP_HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRetS_-p_JzwBb-pMgAMek2kjr05dDWkRJaLyi0od4CKuuPIRXLDCRI9VA" group-title="ITALY",|IT*| Sky_Sport_MotoGP_HD
+http://xpro.one-iptv.com:25443/henock/henock123/30338
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Sky_Sport_Plus" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHq5eMVWudEjgFEToNQyJElSYnqFM6hhV1vR8-du7GhhAzDTm4NCVC1Lxe" group-title="ITALY",|IT*| Sky_Sport_Plus
+http://xpro.one-iptv.com:25443/henock/henock123/30337
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| sky_supercalcio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpNqrIFd4S3Jr_fT-cllRE3zME8C0Ag0Nq-MhyMD-UDS4bkELkgcaSLlg" group-title="ITALY",|IT*| sky_supercalcio
+http://xpro.one-iptv.com:25443/henock/henock123/30325
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Sky_Uno" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGSoLY7qcfE1xbzSSBNWrSBlvvKHQCzi5Vc0KL4v8doh0_Q8Vx8ci0OrMV" group-title="ITALY",|IT*| Sky_Uno
+http://xpro.one-iptv.com:25443/henock/henock123/30336
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| SportItalia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4keVTULKaNNfAdXofy2cNYv7NvS40zicQ6u4-yZSi5q4OO6cZLebG5DY" group-title="ITALY",|IT*| SportItalia
+http://xpro.one-iptv.com:25443/henock/henock123/30386
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| SUPER_TENNIS_HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdl6XzKOCMyvpnr12sjNCA2M0-3eSDASQskCuQcwyOfBTVbkKkGVeXr4I" group-title="ITALY",|IT*| SUPER_TENNIS_HD
+http://xpro.one-iptv.com:25443/henock/henock123/30393
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Super_TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrxbcqCB-k68ZmD2Aig95j4jAdYWXcrJraTDPExt13dUF_n-FBoBV1LBBivw" group-title="ITALY",|IT*| Super_TV
+http://xpro.one-iptv.com:25443/henock/henock123/30384
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| Torino_Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq4XpLfN2BrZH_JMtigNiSTglszfoSIbQ_Qzr6bUIVsqHjFZH1OaqJWHM" group-title="ITALY",|IT*| Torino_Channel
+http://xpro.one-iptv.com:25443/henock/henock123/30374
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| TV2000" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNy7asi04TNz5mEadr-WemOvDgcps5vH_qalDesuFM_Thv0F5rofRtbiE" group-title="ITALY",|IT*| TV2000
+http://xpro.one-iptv.com:25443/henock/henock123/30398
+#EXTINF:-1 tvg-id="" tvg-name="|IT*| VIDEOLINA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzrj5WodReqraPRZkO4H0g8yR_xH3xVuO9QULT03NmlzBTrEr0n3GFVnU" group-title="ITALY",|IT*| VIDEOLINA
+http://xpro.one-iptv.com:25443/henock/henock123/30399
+#EXTINF:-1 tvg-id="" tvg-name="|IT|  Animal Planet" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyE6mjr7-TH5lz3ommrKQxysJBDgg-ZbyoGGuGgopll0iklAfBEwVaCHWh" group-title="ITALY",|IT|  Animal Planet
+http://xpro.one-iptv.com:25443/henock/henock123/20989
+#EXTINF:-1 tvg-id="" tvg-name="|IT|  Boing" tvg-logo="http://one-iptv.com/logoX/news/boig.png" group-title="ITALY",|IT|  Boing
+http://xpro.one-iptv.com:25443/henock/henock123/20988
+#EXTINF:-1 tvg-id="" tvg-name="|IT|  Canal 5 HD" tvg-logo="http://one-iptv.com/logoX/italy/canal5.png" group-title="ITALY",|IT|  Canal 5 HD
+http://xpro.one-iptv.com:25443/henock/henock123/20987
+#EXTINF:-1 tvg-id="" tvg-name="|IT|  Cartoonito" tvg-logo="http://one-iptv.com/logoX/italy/cartoonito.png" group-title="ITALY",|IT|  Cartoonito
+http://xpro.one-iptv.com:25443/henock/henock123/20986
+#EXTINF:-1 tvg-id="" tvg-name="|IT|  Cielo" tvg-logo="http://one-iptv.com/logoX/italy/cielo.png" group-title="ITALY",|IT|  Cielo
+http://xpro.one-iptv.com:25443/henock/henock123/20985
+#EXTINF:-1 tvg-id="" tvg-name="|IT|  Discovery HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoN3ZC3kH30_MF5jPMXG99q-yQEgAt190FMdvV1_FWlbx7zz4lpTZ1U2ic" group-title="ITALY",|IT|  Discovery HD
+http://xpro.one-iptv.com:25443/henock/henock123/20984
+#EXTINF:-1 tvg-id="" tvg-name="|IT|  Discovery Science HD" tvg-logo="http://one-iptv.com/logoX/franceculture/discouveryscience.png" group-title="ITALY",|IT|  Discovery Science HD
+http://xpro.one-iptv.com:25443/henock/henock123/20983
+#EXTINF:-1 tvg-id="" tvg-name="|IT|  Discovery Travel&Living HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfDAcpDpHQkCZx0xNFHdCYBRlQS68eiCq--9wc2n9EUh3sxXebuB1bHbEz" group-title="ITALY",|IT|  Discovery Travel&Living HD
+http://xpro.one-iptv.com:25443/henock/henock123/20982
+#EXTINF:-1 tvg-id="" tvg-name="|IT|  FISHING TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9_YPksfzzlegYiNEnM8X1y0I9frKkTDqtMZ97KUf3b0evPQj_gWmxJAcd" group-title="ITALY",|IT|  FISHING TV
+http://xpro.one-iptv.com:25443/henock/henock123/20981
+#EXTINF:-1 tvg-id="" tvg-name="|IT|  Fox Animation" tvg-logo="http://one-iptv.com/logoX/italy/foxanimation.png" group-title="ITALY",|IT|  Fox Animation
+http://xpro.one-iptv.com:25443/henock/henock123/20980
+#EXTINF:-1 tvg-id="" tvg-name="|IT|  Fox Crime HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqOLvPPES2fbDXooXJ_Z6v3YzT1tgin2rAOPRJmsAARzZU1wdQNE4aBU4" group-title="ITALY",|IT|  Fox Crime HD
+http://xpro.one-iptv.com:25443/henock/henock123/20979
+#EXTINF:-1 tvg-id="" tvg-name="|IT|  FOX HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcV9b6Rqnufn0xImp4c-SK9kRUBSHH-rUyRHDjnj8p-2NMDMuj_jPeQP4" group-title="ITALY",|IT|  FOX HD
+http://xpro.one-iptv.com:25443/henock/henock123/20978
+#EXTINF:-1 tvg-id="" tvg-name="|IT|  Fox Life HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZvmmurhUAnFY7QpoEZFop9jhxMIVC6TR8ndNCrF3pU5F3a43LZc8ZlVw" group-title="ITALY",|IT|  Fox Life HD
+http://xpro.one-iptv.com:25443/henock/henock123/20977
+#EXTINF:-1 tvg-id="" tvg-name="|IT|  FOX Sport HD" tvg-logo="http://one-iptv.com/logoX/italy/foxsport.png" group-title="ITALY",|IT|  FOX Sport HD
+http://xpro.one-iptv.com:25443/henock/henock123/20976
+#EXTINF:-1 tvg-id="" tvg-name="|IT|  History" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ_qFzlrUaO9P1_4lOUZHPOLuyeCpM2VWZvU503O5Y5Lu4w12OpRTANH5n" group-title="ITALY",|IT|  History
+http://xpro.one-iptv.com:25443/henock/henock123/20975
+#EXTINF:-1 tvg-id="" tvg-name="|IT|  Inter Channel" tvg-logo="http://one-iptv.com/logoX/italy/interchannel.png" group-title="ITALY",|IT|  Inter Channel
+http://xpro.one-iptv.com:25443/henock/henock123/20974
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Juventus TV" tvg-logo="http://one-iptv.com/logoX/italy/juventustv.png" group-title="ITALY",|IT| Juventus TV
+http://xpro.one-iptv.com:25443/henock/henock123/20973
+#EXTINF:-1 tvg-id="" tvg-name="|IT|  MarcoPolo" tvg-logo="http://one-iptv.com/logoX/italy/marcoppolo.png" group-title="ITALY",|IT|  MarcoPolo
+http://xpro.one-iptv.com:25443/henock/henock123/20972
+#EXTINF:-1 tvg-id="" tvg-name="|IT|  Mediaset Extra" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ6gn7WNLP27jdX1PoOLBrxhg4lB9-L_QCn75F6FedJkffqCV4arWYAneU" group-title="ITALY",|IT|  Mediaset Extra
+http://xpro.one-iptv.com:25443/henock/henock123/20971
+#EXTINF:-1 tvg-id="" tvg-name="|IT|  Milan Channel" tvg-logo="http://one-iptv.com/logoX/italy/milanchannel.png" group-title="ITALY",|IT|  Milan Channel
+http://xpro.one-iptv.com:25443/henock/henock123/20970
+#EXTINF:-1 tvg-id="" tvg-name="|IT|  Nat Geo Wild HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6nYTwrWqlrcmSvYnwDCy5I95y582G9TAeOZj3clAEaPswY8blpUm6mLc" group-title="ITALY",|IT|  Nat Geo Wild HD
+http://xpro.one-iptv.com:25443/henock/henock123/20969
+#EXTINF:-1 tvg-id="" tvg-name="|IT|  NATIONAL GEOGRAPHIC HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0i-ffH7-qQW0Pz8V7_ELZx6vWo7PYTRS5CBruyC4BVQOjKJRp1WqrFls6" group-title="ITALY",|IT|  NATIONAL GEOGRAPHIC HD
+http://xpro.one-iptv.com:25443/henock/henock123/20968
+#EXTINF:-1 tvg-id="" tvg-name="|IT|  Pesca e Caccia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ2RTPXVF6R_wmV9w_JM3d28uifh-43PZvnSpjvJ0RaNjy_dWJQAW8AM8" group-title="ITALY",|IT|  Pesca e Caccia
+http://xpro.one-iptv.com:25443/henock/henock123/20967
+#EXTINF:-1 tvg-id="" tvg-name="|IT|  Premium Action" tvg-logo="http://one-iptv.com/logoX/italy/premieraction.png" group-title="ITALY",|IT|  Premium Action
+http://xpro.one-iptv.com:25443/henock/henock123/20966
+#EXTINF:-1 tvg-id="" tvg-name="|IT|  Premium Calcio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmau-SM6MLpP2JDPo4odsQR9IIgLv7CLREBVwNRR8N33oFbrXdXIEfyrs" group-title="ITALY",|IT|  Premium Calcio
+http://xpro.one-iptv.com:25443/henock/henock123/20965
+#EXTINF:-1 tvg-id="" tvg-name="|IT|  Premium Comedy" tvg-logo="http://one-iptv.com/logoX/italy/premimumcomedy.png" group-title="ITALY",|IT|  Premium Comedy
+http://xpro.one-iptv.com:25443/henock/henock123/20964
+#EXTINF:-1 tvg-id="" tvg-name="|IT|  Premium Disney Junior" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq9i94ZKZxoE2QuvkK2xbMmtxTbczSYN8GRLlM4GkQ8pj_aDsRCXSl95Y" group-title="ITALY",|IT|  Premium Disney Junior
+http://xpro.one-iptv.com:25443/henock/henock123/20963
+#EXTINF:-1 tvg-id="" tvg-name="|IT|  Premium Sport 2" tvg-logo="http://one-iptv.com/logoX/italy/premiumsport2.png" group-title="ITALY",|IT|  Premium Sport 2
+http://xpro.one-iptv.com:25443/henock/henock123/20962
+#EXTINF:-1 tvg-id="" tvg-name="|IT|  Premium Studio Universal" tvg-logo="http://one-iptv.com/logoX/italy/premiumstudiouniversal.png" group-title="ITALY",|IT|  Premium Studio Universal
+http://xpro.one-iptv.com:25443/henock/henock123/20961
+#EXTINF:-1 tvg-id="" tvg-name="|IT|  Rai Yoyo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs_t3qDwLu2GxQovNKM4YPuvvMMESg58nek7vuDr51tvQmsr0eSeF5dk7u" group-title="ITALY",|IT|  Rai Yoyo
+http://xpro.one-iptv.com:25443/henock/henock123/20960
+#EXTINF:-1 tvg-id="" tvg-name="|IT|  Sky Calcio 1 +" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb-uTNWHhCTy7vGqGGgnZHqYKhxntFwX4vv6mq-gUvN3YyN7JA1XypH7yR" group-title="ITALY",|IT|  Sky Calcio 1 +
+http://xpro.one-iptv.com:25443/henock/henock123/20959
+#EXTINF:-1 tvg-id="" tvg-name="|IT|  Sky Calcio 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVIIQJKRDBPxyshv_NnmUDPVa4hETuTE3nH6R1MFubuqXslCO72YV3lg" group-title="ITALY",|IT|  Sky Calcio 2
+http://xpro.one-iptv.com:25443/henock/henock123/20958
+#EXTINF:-1 tvg-id="" tvg-name="|IT|  Sky Calcio 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8UWzAwXGjAkY7BzGHwmP1rnqym7wMcleM9NXVAbJyEtDhlE3kzfmpj5c" group-title="ITALY",|IT|  Sky Calcio 3
+http://xpro.one-iptv.com:25443/henock/henock123/20957
+#EXTINF:-1 tvg-id="" tvg-name="|IT|  Sky Calcio 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAutqr5xCaMRNVKBd6s9j-tW42z0HVVKI-KYOYHk_b8hRFPrnTj9PS7sw" group-title="ITALY",|IT|  Sky Calcio 4
+http://xpro.one-iptv.com:25443/henock/henock123/20956
+#EXTINF:-1 tvg-id="" tvg-name="|IT|  Sky Calcio 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7WPk5nkKXzrQjVUdcm017NZEiYNdyLAckNa1ZyRjL38fqtZguZR9brSY" group-title="ITALY",|IT|  Sky Calcio 5
+http://xpro.one-iptv.com:25443/henock/henock123/20955
+#EXTINF:-1 tvg-id="" tvg-name="|IT|  Sky Calcio 6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI6x4kNFDk14COaThLNWYjJ7AXBUqi1B-oSZGl5C5HPMsWnT3SZLBzKA" group-title="ITALY",|IT|  Sky Calcio 6
+http://xpro.one-iptv.com:25443/henock/henock123/20954
+#EXTINF:-1 tvg-id="" tvg-name="|IT|  Sky Calcio 7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwRZmoqlYtseyLENwMySbM4iExek7R62QOrPVMq5mHpM-EkE9hlDHppeUn" group-title="ITALY",|IT|  Sky Calcio 7
+http://xpro.one-iptv.com:25443/henock/henock123/20953
+#EXTINF:-1 tvg-id="" tvg-name="|IT|  Sky Fox Comedy HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJO3R_y1IKzYdDqIql98N6-r53u1OhkJRQjFZYmWJqDI13RGSAKpr_5cI" group-title="ITALY",|IT|  Sky Fox Comedy HD
+http://xpro.one-iptv.com:25443/henock/henock123/20952
+#EXTINF:-1 tvg-id="" tvg-name="|IT|  SKY Primafila 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOb3bSdHMWugK9S4waxF3Gw51LfAQUx6U_VcODXms9JihTTzcgCqE5anE" group-title="ITALY",|IT|  SKY Primafila 3
+http://xpro.one-iptv.com:25443/henock/henock123/20951
+#EXTINF:-1 tvg-id="" tvg-name="|IT|  Sky Primafila 6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcvaFywNd8jpCqhaq1uoS_Sq8Vp7swvp_s__35CHioAQHxlBUyS8Oe74w" group-title="ITALY",|IT|  Sky Primafila 6
+http://xpro.one-iptv.com:25443/henock/henock123/20950
+#EXTINF:-1 tvg-id="" tvg-name="|IT|  Sky Primafila 7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgeMcp6z9YCqJm45oP8eOUDHkWuTVmlW3n31RFH-PO8d1CleJeN80Pq6o" group-title="ITALY",|IT|  Sky Primafila 7
+http://xpro.one-iptv.com:25443/henock/henock123/20949
+#EXTINF:-1 tvg-id="" tvg-name="|IT|  Sky Primafila 8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOb3bSdHMWugK9S4waxF3Gw51LfAQUx6U_VcODXms9JihTTzcgCqE5anE" group-title="ITALY",|IT|  Sky Primafila 8
+http://xpro.one-iptv.com:25443/henock/henock123/20948
+#EXTINF:-1 tvg-id="" tvg-name="|IT|  SKY TG 24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShQq-xriCad1DcFwtJrfgviIZSwx6tPdAhySj142DxrstDCtZK4-3DP5eA" group-title="ITALY",|IT|  SKY TG 24
+http://xpro.one-iptv.com:25443/henock/henock123/20947
+#EXTINF:-1 tvg-id="" tvg-name="|IT|  SPORT ITALIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuTR9X_PqdmS_n5_AWGa2SEuujP7Gaek6m-w0yWhibUnFeTqzU7QROMIs" group-title="ITALY",|IT|  SPORT ITALIA
+http://xpro.one-iptv.com:25443/henock/henock123/20946
+#EXTINF:-1 tvg-id="" tvg-name="|IT|  SUPER TENNIS (Backup)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9fWk2jq9xExpS1j8fXA1y9T264H-lAFf4s--LJcn9d48R-9dQlsUkJdO2" group-title="ITALY",|IT|  SUPER TENNIS (Backup)
+http://xpro.one-iptv.com:25443/henock/henock123/20945
+#EXTINF:-1 tvg-id="" tvg-name="|IT|  Supercalcio HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3WXF-bZEUpuQvl3FAGUcbFFQJKW-oeAGEqDuHN68R70VnMxp9a1jj9cY4" group-title="ITALY",|IT|  Supercalcio HD
+http://xpro.one-iptv.com:25443/henock/henock123/20944
+#EXTINF:-1 tvg-id="" tvg-name="|IT|  Teleticino" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ_qFzlrUaO9P1_4lOUZHPOLuyeCpM2VWZvU503O5Y5Lu4w12OpRTANH5n" group-title="ITALY",|IT|  Teleticino
+http://xpro.one-iptv.com:25443/henock/henock123/20943
+#EXTINF:-1 tvg-id="" tvg-name="|IT|  TOP CRIME" tvg-logo="http://one-iptv.com/logoX/italy/topcrime.png" group-title="ITALY",|IT|  TOP CRIME
+http://xpro.one-iptv.com:25443/henock/henock123/20942
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Alice" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ_qFzlrUaO9P1_4lOUZHPOLuyeCpM2VWZvU503O5Y5Lu4w12OpRTANH5n" group-title="ITALY",|IT| Alice
+http://xpro.one-iptv.com:25443/henock/henock123/21040
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Canale5 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3WXF-bZEUpuQvl3FAGUcbFFQJKW-oeAGEqDuHN68R70VnMxp9a1jj9cY4" group-title="ITALY",|IT| Canale5 HD
+http://xpro.one-iptv.com:25443/henock/henock123/21039
+#EXTINF:-1 tvg-id="" tvg-name="|IT| CARTOON  NETWORK" tvg-logo="http://one-iptv.com/logoX/news/cartoonnetwork.png" group-title="ITALY",|IT| CARTOON  NETWORK
+http://xpro.one-iptv.com:25443/henock/henock123/20941
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Discovery Focus" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoSAknvGlTDI9ENDRH6_zw5b_XaP5lDhBn1BSBwhqomDoUvHibLq_g5Q" group-title="ITALY",|IT| Discovery Focus
+http://xpro.one-iptv.com:25443/henock/henock123/20940
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Dmax HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0DaHzL2IqXUEYWSTb49Ewpq-vBxswOkJfHdKBMjkM9OOP2qL5NADjZrI" group-title="ITALY",|IT| Dmax HD
+http://xpro.one-iptv.com:25443/henock/henock123/21038
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Eurosport 1 HD" tvg-logo="http://one-iptv.com/logoX/SfrSport/eurosport1.png" group-title="ITALY",|IT| Eurosport 1 HD
+http://xpro.one-iptv.com:25443/henock/henock123/21037
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Eurosport 2 HD" tvg-logo="http://one-iptv.com/logoX/SfrSport/eurosport2.png" group-title="ITALY",|IT| Eurosport 2 HD
+http://xpro.one-iptv.com:25443/henock/henock123/21036
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Fox Comedy HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg4DVtzXDLOKkk1PubHCL4YUTPxDDtfPZ-5XgM-tBUhwpCf72P1BaA1Rr4" group-title="ITALY",|IT| Fox Comedy HD
+http://xpro.one-iptv.com:25443/henock/henock123/21035
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Fox Crime HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqOLvPPES2fbDXooXJ_Z6v3YzT1tgin2rAOPRJmsAARzZU1wdQNE4aBU4" group-title="ITALY",|IT| Fox Crime HD
+http://xpro.one-iptv.com:25443/henock/henock123/21034
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Italia 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwgVDI3rIse2WojwU0nhK-vSPiyTyM6AG3YyxXP8ckGUf4Z7so-4xlmr_aVg" group-title="ITALY",|IT| Italia 2
+http://xpro.one-iptv.com:25443/henock/henock123/21033
+#EXTINF:-1 tvg-id="" tvg-name="|IT| italia1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSioAdAL1DN2IU1UxNLITuqNyOXMSAr_wY2VD3lkHHJUpDgWfgh6bqTOQ" group-title="ITALY",|IT| italia1 HD
+http://xpro.one-iptv.com:25443/henock/henock123/21032
+#EXTINF:-1 tvg-id="" tvg-name="|IT| La7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ_qFzlrUaO9P1_4lOUZHPOLuyeCpM2VWZvU503O5Y5Lu4w12OpRTANH5n" group-title="ITALY",|IT| La7
+http://xpro.one-iptv.com:25443/henock/henock123/21031
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Mediaset Extra" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ6gn7WNLP27jdX1PoOLBrxhg4lB9-L_QCn75F6FedJkffqCV4arWYAneU" group-title="ITALY",|IT| Mediaset Extra
+http://xpro.one-iptv.com:25443/henock/henock123/21030
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Mediaset Iris" tvg-logo="http://one-iptv.com/logoX/italy/irismediaset.png" group-title="ITALY",|IT| Mediaset Iris
+http://xpro.one-iptv.com:25443/henock/henock123/20939
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Premium Calcio 1*" tvg-logo="http://one-iptv.com/logoX/italy/preminumcalcio1.png" group-title="ITALY",|IT| Premium Calcio 1*
+http://xpro.one-iptv.com:25443/henock/henock123/21029
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Premium Calcio 2*" tvg-logo="http://one-iptv.com/logoX/italy/premiumcalcio2.png" group-title="ITALY",|IT| Premium Calcio 2*
+http://xpro.one-iptv.com:25443/henock/henock123/21028
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Premium Calcio 3*" tvg-logo="http://one-iptv.com/logoX/italy/premiumcalcio3.png" group-title="ITALY",|IT| Premium Calcio 3*
+http://xpro.one-iptv.com:25443/henock/henock123/21027
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Premium Calcio 4" tvg-logo="http://one-iptv.com/logoX/italy/premiumclacio4.png" group-title="ITALY",|IT| Premium Calcio 4
+http://xpro.one-iptv.com:25443/henock/henock123/21026
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Premium Calcio 5*" tvg-logo="http://one-iptv.com/logoX/italy/premimumclacio5.png" group-title="ITALY",|IT| Premium Calcio 5*
+http://xpro.one-iptv.com:25443/henock/henock123/21025
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Premium Cinema" tvg-logo="http://one-iptv.com/logoX/italy/premiumcinema%20.png" group-title="ITALY",|IT| Premium Cinema
+http://xpro.one-iptv.com:25443/henock/henock123/21024
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Premium Cinema 2" tvg-logo="http://one-iptv.com/logoX/italy/premimucinema2.png" group-title="ITALY",|IT| Premium Cinema 2
+http://xpro.one-iptv.com:25443/henock/henock123/21023
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Premium Cinema Energy" tvg-logo="http://one-iptv.com/logoX/italy/premiumenergy.png" group-title="ITALY",|IT| Premium Cinema Energy
+http://xpro.one-iptv.com:25443/henock/henock123/21022
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Premium Crime" tvg-logo="http://one-iptv.com/logoX/italy/premimumcrime.png" group-title="ITALY",|IT| Premium Crime
+http://xpro.one-iptv.com:25443/henock/henock123/21021
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Premium Disney Junior" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq9i94ZKZxoE2QuvkK2xbMmtxTbczSYN8GRLlM4GkQ8pj_aDsRCXSl95Y" group-title="ITALY",|IT| Premium Disney Junior
+http://xpro.one-iptv.com:25443/henock/henock123/20938
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Premium Emotion" tvg-logo="http://one-iptv.com/logoX/italy/premiumemotioncinema.png" group-title="ITALY",|IT| Premium Emotion
+http://xpro.one-iptv.com:25443/henock/henock123/21020
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Premium Joy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROy0shHmzlGaFPMNVl9yP6jl_lS-_gi7nkQcx4Zgv0pWc_DX1BB6wF4sg" group-title="ITALY",|IT| Premium Joy
+http://xpro.one-iptv.com:25443/henock/henock123/21019
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Premium Sport HD" tvg-logo="http://one-iptv.com/logoX/italy/premiumsport%20.png" group-title="ITALY",|IT| Premium Sport HD
+http://xpro.one-iptv.com:25443/henock/henock123/21042
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Premium Stories" tvg-logo="http://one-iptv.com/logoX/italy/premiumstories.png" group-title="ITALY",|IT| Premium Stories
+http://xpro.one-iptv.com:25443/henock/henock123/21018
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Rai Gulp" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHG8re_AOrnJBNIo6oYm2DWlQmWObaRrBudvUzNsrt2cEdhO2lUr4lYRUn" group-title="ITALY",|IT| Rai Gulp
+http://xpro.one-iptv.com:25443/henock/henock123/20937
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Rai Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjw8r61dpM-yXSKZH1WTWfUYZ0q0OONau44pweirEOxykMCPjTPRqDYkI" group-title="ITALY",|IT| Rai Movie
+http://xpro.one-iptv.com:25443/henock/henock123/21017
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Rai Premium" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWXwil0Lxh_dbMJsXLh_6rIDqW8MyUqYWQOzCmYsPnmGMScDjsfmWrtt53" group-title="ITALY",|IT| Rai Premium
+http://xpro.one-iptv.com:25443/henock/henock123/21016
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Rai Sport1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQO4LzB5caq23Xv7kAZwJ86Q_V_xuHgU38m0rjm_daBbFcIh1v7fROVK4" group-title="ITALY",|IT| Rai Sport1
+http://xpro.one-iptv.com:25443/henock/henock123/21015
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Rai Sport2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSOCbZ8MdC9Kq4fg3wFR52t6cWWRm52-CuszaVHNWTSaC8wxBn9-NsQBs" group-title="ITALY",|IT| Rai Sport2
+http://xpro.one-iptv.com:25443/henock/henock123/21014
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Rai1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiZvOKXbG33T3jRmTcgKlk0e3__FIny0_VPGo3AkCOSEYtvU7GLq2AqUU" group-title="ITALY",|IT| Rai1 HD
+http://xpro.one-iptv.com:25443/henock/henock123/21013
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Rai2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAbT8tIOtU9t_hm9WLBjalYchz2aWcrG1cf39qNEHvqaYyF_KJr8cVfM2w" group-title="ITALY",|IT| Rai2 HD
+http://xpro.one-iptv.com:25443/henock/henock123/21012
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Rai3 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3WXF-bZEUpuQvl3FAGUcbFFQJKW-oeAGEqDuHN68R70VnMxp9a1jj9cY4" group-title="ITALY",|IT| Rai3 HD
+http://xpro.one-iptv.com:25443/henock/henock123/21011
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Rai4 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3WXF-bZEUpuQvl3FAGUcbFFQJKW-oeAGEqDuHN68R70VnMxp9a1jj9cY4" group-title="ITALY",|IT| Rai4 HD
+http://xpro.one-iptv.com:25443/henock/henock123/21010
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Rai5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ_qFzlrUaO9P1_4lOUZHPOLuyeCpM2VWZvU503O5Y5Lu4w12OpRTANH5n" group-title="ITALY",|IT| Rai5
+http://xpro.one-iptv.com:25443/henock/henock123/21009
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Real Time" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBj1agGPx2KAOk1AxBIXhKGJmH4Cc3o6WiefJhC-FS-iz0W9Zq3sHmoFkC" group-title="ITALY",|IT| Real Time
+http://xpro.one-iptv.com:25443/henock/henock123/20936
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Rete4 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW-6S3wKi3dxNiGAEkFRASgvfNly5DpGqhloUCIWw2feHRfbGELm_rGtA" group-title="ITALY",|IT| Rete4 HD
+http://xpro.one-iptv.com:25443/henock/henock123/21008
+#EXTINF:-1 tvg-id="" tvg-name="|IT| RSI La1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3qN9UQtfjAqxhfVEl2eAa9fIDXLJ1khM8dIkXjsLykCykw_4wSHifxUM" group-title="ITALY",|IT| RSI La1 HD
+http://xpro.one-iptv.com:25443/henock/henock123/21007
+#EXTINF:-1 tvg-id="" tvg-name="|IT| RSI La2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkL_wTw9LSoQZlqRPLPy3P0IvQuKOIJSEF8gR2ga9bEuMxZ90TypG_kpg" group-title="ITALY",|IT| RSI La2 HD
+http://xpro.one-iptv.com:25443/henock/henock123/21006
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Sky Cinema  1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTefl-vBJrstmFq4q9kvkOacTfH1gT0__Xy5IktelC-AaC-ye-PRxgH5IA" group-title="ITALY",|IT| Sky Cinema  1 HD
+http://xpro.one-iptv.com:25443/henock/henock123/21005
+#EXTINF:-1 tvg-id="" tvg-name="|IT| SKY Cinema 3D" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH7da7mFjlf5MLkDoevJtolC9yBAapPa2Qyo7dqGDb7_9kqNL1riuBWPKP" group-title="ITALY",|IT| SKY Cinema 3D
+http://xpro.one-iptv.com:25443/henock/henock123/20935
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Sky Cinema Classic HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQmoQVgR3Ek6BKoA-QJjfKmW_MKmSNYEGRNi_LN3Cfg5S87-uu6YPDXE4" group-title="ITALY",|IT| Sky Cinema Classic HD
+http://xpro.one-iptv.com:25443/henock/henock123/21004
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Sky Cinema Comedy HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3r__VhYSyUfa6u8x_DpqCCKn-VEhvVb7PGwkmBc1G_7kTWv848x7tp2w" group-title="ITALY",|IT| Sky Cinema Comedy HD
+http://xpro.one-iptv.com:25443/henock/henock123/21003
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Sky Cinema Family HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMbJgqqDrWaLlfjtTsjSKa6tQNXs3tjIyBgPCBw8K8W4lHw2A_HCM1TeA" group-title="ITALY",|IT| Sky Cinema Family HD
+http://xpro.one-iptv.com:25443/henock/henock123/21002
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Sky Cinema Max HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStB4nWXrvBpvhekhWS9e4tMDZjXcUJiIAEpbrSdLNKeLQyWZ6kDxdPJTM" group-title="ITALY",|IT| Sky Cinema Max HD
+http://xpro.one-iptv.com:25443/henock/henock123/21001
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Sky Cinema Passion HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdcHmUxcd2srCk0s_esZX0Sa5ECZpwL6Wgv1cgWzJQSUq-8lf7_uJS_nbv" group-title="ITALY",|IT| Sky Cinema Passion HD
+http://xpro.one-iptv.com:25443/henock/henock123/21000
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Sky Cinema1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQlLfVDpTQOjdVXiNRIIs0ZV_Du-8XLrQ51u5WjUxBLqhctsZW-Bm_Y1g1" group-title="ITALY",|IT| Sky Cinema1 HD
+http://xpro.one-iptv.com:25443/henock/henock123/20999
+#EXTINF:-1 tvg-id="" tvg-name="|IT| SKY CINEMA24 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuImwkfJzJKHDT6ckIF8dEIGK0OEjc70Ml0ql0ZEd05Mz-ZJi5zuBlVxKu" group-title="ITALY",|IT| SKY CINEMA24 HD
+http://xpro.one-iptv.com:25443/henock/henock123/20998
+#EXTINF:-1 tvg-id="" tvg-name="|IT| SKY F1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy9EKB-1w7GHAM-l2Znem5O5JD0O-JmNdpGi0oobrLL5lsFEU7QjBlIZU" group-title="ITALY",|IT| SKY F1 HD
+http://xpro.one-iptv.com:25443/henock/henock123/20997
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Sky Foxcrime HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBkYzT7UJhJdeF6A8cS5O5fZ3pHGOSUguvaRoSv_D6Fko9C6eEUaxBfQQ" group-title="ITALY",|IT| Sky Foxcrime HD
+http://xpro.one-iptv.com:25443/henock/henock123/20996
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Sky Moto GP HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6LgtnjNkxNiyuEJoci8n6hpwLcTdq3t34eDnV9xUtXCKGF_vbZga1X_Dp" group-title="ITALY",|IT| Sky Moto GP HD
+http://xpro.one-iptv.com:25443/henock/henock123/20995
+#EXTINF:-1 tvg-id="" tvg-name="|IT| SKY Primafila 1" tvg-logo="http://one-iptv.com/logoX/italy/primafila1.png" group-title="ITALY",|IT| SKY Primafila 1
+http://xpro.one-iptv.com:25443/henock/henock123/20934
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Sky Primafila 10" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs7e7KZNrEDyS19RfsFGSCCXwhFKaP_ano18mJrnfGK7lX1YCVs9Xlpgif" group-title="ITALY",|IT| Sky Primafila 10
+http://xpro.one-iptv.com:25443/henock/henock123/20933
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Sky Primafila 12" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwZI-0IRiJlN5UJIFTH8xrXcxZ__ktaJoOLdQO70q-AFA-hyNBLZV37xg" group-title="ITALY",|IT| Sky Primafila 12
+http://xpro.one-iptv.com:25443/henock/henock123/20932
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Sky Primafila 13" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8wVG7fugSORc3tTbdl_gWBy_UeRIEcVXm8rqhAy-SeMm2HyyWaPYW9_M" group-title="ITALY",|IT| Sky Primafila 13
+http://xpro.one-iptv.com:25443/henock/henock123/20931
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Sky Primafila 14" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSObR28L8pbCzOJVuL9ZdIGmJgHPtJwe_6ZJxp9NXjrtOVbcsUJqSpZhZUD" group-title="ITALY",|IT| Sky Primafila 14
+http://xpro.one-iptv.com:25443/henock/henock123/20930
+#EXTINF:-1 tvg-id="" tvg-name="|IT| SKY Primafila 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTISSLDrHOrdHJTGWDhp56cRA_qBg93Kr5jcxK1hUFM8a-Zpdcfn-PHoIE" group-title="ITALY",|IT| SKY Primafila 2
+http://xpro.one-iptv.com:25443/henock/henock123/20929
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Sky Primafila 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn-xLogQnjCTJ32NFOZeUZa_WJbs8f3MoQscOGpBjzAqDRlt9WLeMnxA8" group-title="ITALY",|IT| Sky Primafila 4
+http://xpro.one-iptv.com:25443/henock/henock123/20928
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Sky Primafila 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrJbSVviQeu8djgOHkFo0DbNG-OXwmfZnEJuoC52_bD6BpR0zRViGWE-4" group-title="ITALY",|IT| Sky Primafila 5
+http://xpro.one-iptv.com:25443/henock/henock123/20927
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Sky Primafila 9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMsrhlq5TGBG2xA7IoSb1e361cQI7dPOlAf09ZLYAzv41-6r4fnjnJLp-m" group-title="ITALY",|IT| Sky Primafila 9
+http://xpro.one-iptv.com:25443/henock/henock123/20926
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Sky Sport 24 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjXQMwpxpdT-k1kOpYkXMv_pnXgJCXN1CEfqKh3O3Q8HjFF-C8gKThIj8" group-title="ITALY",|IT| Sky Sport 24 HD
+http://xpro.one-iptv.com:25443/henock/henock123/20994
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Sky Sport F1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy9EKB-1w7GHAM-l2Znem5O5JD0O-JmNdpGi0oobrLL5lsFEU7QjBlIZU" group-title="ITALY",|IT| Sky Sport F1 HD
+http://xpro.one-iptv.com:25443/henock/henock123/20993
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Sky Sport1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8lztE57YUFAJdFQhXmSYzrAaHjcPwn8G7Wxu66UfnaNEWvyGtjELU7Oo" group-title="ITALY",|IT| Sky Sport1 HD
+http://xpro.one-iptv.com:25443/henock/henock123/20992
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Sky Sport2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsVfihthcPWFl2J7t-M3dx508PsQWzS2Nx-q0gIzesvcrCqQKzqhW9OqTN" group-title="ITALY",|IT| Sky Sport2 HD
+http://xpro.one-iptv.com:25443/henock/henock123/20991
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Sky Sport3 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFfOrZNaWTAdNEgI93rDdb7WwogSrLV1XSVKHvxb_iI2PEC6HY38oEuhaW" group-title="ITALY",|IT| Sky Sport3 HD
+http://xpro.one-iptv.com:25443/henock/henock123/20990
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Sky Uno HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-tK4IqbkB2iM2vtz0AUXLPQ5dHWsNgcYvWm0o9c23TmHn0v2t8lobaJQ" group-title="ITALY",|IT| Sky Uno HD
+http://xpro.one-iptv.com:25443/henock/henock123/21041
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Super Tennis" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL1CltfWsrnOrkSBi2m5emWc9fbK2NwufWqp3FU4legOCh-xME7zgFsEPM" group-title="ITALY",|IT| Super Tennis
+http://xpro.one-iptv.com:25443/henock/henock123/20925
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Dazn Sport 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHWK4JsuXx4xycWlSKbNt5u-qkC8fynXwZwYj9GEPJb3ttIXSzN6csZA" group-title="ITALY",|IT| Dazn Sport 1
+http://xpro.one-iptv.com:25443/henock/henock123/39223
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Dazn Sport 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj1z0gxfH4Q3Wp9u9w1fOebxYzyLMOq-nX6Corjd5GzaKfT7uEtkD47A" group-title="ITALY",|IT| Dazn Sport 2
+http://xpro.one-iptv.com:25443/henock/henock123/39222
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Dazn Sport 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj1z0gxfH4Q3Wp9u9w1fOebxYzyLMOq-nX6Corjd5GzaKfT7uEtkD47A" group-title="ITALY",|IT| Dazn Sport 3
+http://xpro.one-iptv.com:25443/henock/henock123/39221
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Dazn Sport 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj1z0gxfH4Q3Wp9u9w1fOebxYzyLMOq-nX6Corjd5GzaKfT7uEtkD47A" group-title="ITALY",|IT| Dazn Sport 4
+http://xpro.one-iptv.com:25443/henock/henock123/39220
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Dazn Sport 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-3fgjBrJlkE2l3feALCnlbTjHUjXV3mjs1EMiK93WnemkO7U1hZDaa-Gr" group-title="ITALY",|IT| Dazn Sport 5
+http://xpro.one-iptv.com:25443/henock/henock123/39219
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Dazn Sport 6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj1z0gxfH4Q3Wp9u9w1fOebxYzyLMOq-nX6Corjd5GzaKfT7uEtkD47A" group-title="ITALY",|IT| Dazn Sport 6
+http://xpro.one-iptv.com:25443/henock/henock123/39218
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Dazn Sport 7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4N7vSds8drn5hfOxxj2MOWf7YEbF-HWU9-1J3qZPEgibpiafo2deaA50C" group-title="ITALY",|IT| Dazn Sport 7
+http://xpro.one-iptv.com:25443/henock/henock123/39217
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Dazn Sport 8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj1z0gxfH4Q3Wp9u9w1fOebxYzyLMOq-nX6Corjd5GzaKfT7uEtkD47A" group-title="ITALY",|IT| Dazn Sport 8
+http://xpro.one-iptv.com:25443/henock/henock123/39216
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Dazn Sport 9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj1z0gxfH4Q3Wp9u9w1fOebxYzyLMOq-nX6Corjd5GzaKfT7uEtkD47A" group-title="ITALY",|IT| Dazn Sport 9
+http://xpro.one-iptv.com:25443/henock/henock123/39215
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Dazn Sport 10" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj1z0gxfH4Q3Wp9u9w1fOebxYzyLMOq-nX6Corjd5GzaKfT7uEtkD47A" group-title="ITALY",|IT| Dazn Sport 10
+http://xpro.one-iptv.com:25443/henock/henock123/39214
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Dazn Sport 11" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj1z0gxfH4Q3Wp9u9w1fOebxYzyLMOq-nX6Corjd5GzaKfT7uEtkD47A" group-title="ITALY",|IT| Dazn Sport 11
+http://xpro.one-iptv.com:25443/henock/henock123/39213
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Dazn Sport 12" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfcWr5EoL0Te227I-L5mR0YKzvWyZP-R8imzUgpzumtXSXmlal-0f4jf6E" group-title="ITALY",|IT| Dazn Sport 12
+http://xpro.one-iptv.com:25443/henock/henock123/39212
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Dazn Sport 13" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJwTaKusra-94FZMUV3ClHK2TfaJILH8-HIyrojwp58rlQlPzSxo3aTA" group-title="ITALY",|IT| Dazn Sport 13
+http://xpro.one-iptv.com:25443/henock/henock123/39211
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Dazn Sport 14" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHWK4JsuXx4xycWlSKbNt5u-qkC8fynXwZwYj9GEPJb3ttIXSzN6csZA" group-title="ITALY",|IT| Dazn Sport 14
+http://xpro.one-iptv.com:25443/henock/henock123/39210
